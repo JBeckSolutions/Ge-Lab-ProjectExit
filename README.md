@@ -82,7 +82,7 @@ repository](https://github.com/RobsizocktUni/Project-Exit).
   - **[Lena Weiland](https://github.com/Neya87)** 
   - **[Jonas Beck](https://github.com/JBeckSolutions)** 
   - **[Jasmin Smyczek](https://github.com/MonteMuffin)** 
-  - **[Franziska Meinzl](https://github.com/FMelzl)** 
+  - **[Franziska Melzl](https://github.com/FMelzl)** 
 
 See also the list of
 [contributors](https://github.com/RobsizocktUni/Project-Exit/contributors)
